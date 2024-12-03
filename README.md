@@ -1,8 +1,8 @@
+# WeatherFetch Application
+
 <div style="text-align: center;">
   <img width="603" alt="Screenshot 2024-12-03 at 1 15 57 PM" src="https://github.com/user-attachments/assets/844398d8-54a1-46ee-bce8-b01826431ec7" />
 </div>
-
-# WeatherFetch Application
 
 ## Overview
 
