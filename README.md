@@ -17,11 +17,14 @@ CECS 470 - Project 5/
 │   ├── src/
 │   │   ├── App.css
 │   │   ├── App.js
+│   │   ├── App.test.js
 │   │   ├── index.css
 │   │   ├── index.js
+│   │   ├── logo.svg
+│   │   ├── reportWebVitals.js
+│   │   ├── setupTests.js
 │   ├── package.json
 │   ├── node_modules/
-├── reportWebVitals.js
 ```
 
 ### Key Files
@@ -31,7 +34,6 @@ CECS 470 - Project 5/
 - **App.js**: The main React component that handles the search, fetches weather data, and displays the results.
 - **App.css**: The styles for the application.
 - **index.js**: The entry point of the application, rendering the `App` component.
-- **reportWebVitals.js**: For measuring performance (not directly involved in functionality).
 
 ---
 
